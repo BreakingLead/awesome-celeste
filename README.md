@@ -2,13 +2,11 @@
 A categorized community-driven collection of high-quality, awesome celeste libraries, projects, and resources.
 
 ## Everest Framework
-1. The best modding framework for celeste:https://github.com/EverestAPI/Everest
-
+* [Everest](https://github.com/EverestAPI/Everest) - The best modding framework for celeste.
 ## Map Editors
 Some editors to edit map.
-1. Visual Map Maker and Level Editor for the game Celeste: https://github.com/CelestialCartographers/Ahorn
-2. The new and better map editor in lua: https://github.com/CelestialCartographers/Loenn
-3. Thin wrapper for generating Celeste maps: https://github.com/CelestialCartographers/Maple
-
+* [Ahorn](https://github.com/CelestialCartographers/Ahorn) - Visual Map Maker and Level Editor for the game Celeste.
+* [Loenn](https://github.com/CelestialCartographers/Loenn) - The new and better map editor in lua.
+* [Maple](https://github.com/CelestialCartographers/Maple) - Thin wrapper for generating Celeste maps. 
 ## Tools
-1. A map tree viewer by max480: https://max480-random-stuff.appspot.com/celeste/map-tree-viewer
+* [Map Tree Viewer](https://max480-random-stuff.appspot.com/celeste/map-tree-viewer)A map tree viewer by max480.
