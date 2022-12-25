@@ -9,4 +9,4 @@ Some editors to edit map.
 * [Loenn](https://github.com/CelestialCartographers/Loenn) - The new and better map editor in lua.
 * [Maple](https://github.com/CelestialCartographers/Maple) - Thin wrapper for generating Celeste maps. 
 ## Tools
-* [Map Tree Viewer](https://max480-random-stuff.appspot.com/celeste/map-tree-viewer)A map tree viewer by max480.
+* [Map Tree Viewer](https://max480-random-stuff.appspot.com/celeste/map-tree-viewer) - A map tree viewer by max480.
