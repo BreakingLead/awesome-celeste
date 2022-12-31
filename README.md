@@ -10,3 +10,6 @@ Some editors to edit map.
 * [Maple](https://github.com/CelestialCartographers/Maple) - Thin wrapper for generating Celeste maps. 
 ## Tools
 * [Map Tree Viewer](https://max480-random-stuff.appspot.com/celeste/map-tree-viewer) - A map tree viewer by max480.
+## Maps
+* [Spring Collab 2020](https://gamebanana.com/mods/150813) - The Spring Collab has 5 lobbies for you to explore, loaded with maps made by the community. The difficulty of the maps spans from early Vanilla content to some of the hardest Celeste maps that exist, providing enjoyable content for everyone.
+* etc.
