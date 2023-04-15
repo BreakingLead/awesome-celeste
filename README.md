@@ -1,5 +1,6 @@
 # Awesome Celeste
 A categorized community-driven collection of high-quality, awesome celeste libraries, projects, and resources.
+WELCOME to send a pull request!
 
 ## Everest Framework
 * [Everest](https://github.com/EverestAPI/Everest) - The best modding framework for celeste.
